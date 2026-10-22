@@ -18,7 +18,7 @@ SSH Button Next — бесплатное приложение для быстр�
 
 ### Скачать и установить
 
-Подписанные установочные файлы Android доступны в разделе **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Актуальная версия — **[v0.2.11](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.11)**.
+Подписанные установочные файлы Android доступны в разделе **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Актуальная версия — **[v0.2.12](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.12)**.
 
 1. Выберите последний релиз и скачайте файл `*-signed.apk`.
 2. Установите APK на телефон. При необходимости разрешите установку из выбранного источника в настройках Android.
@@ -48,7 +48,7 @@ SSH Button Next is a free Android app for running predefined SSH commands on you
 
 ### Download and install
 
-Signed Android packages are available under **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Current release: **[v0.2.11](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.11)**.
+Signed Android packages are available under **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Current release: **[v0.2.12](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.12)**.
 
 1. Open the latest release and download the `*-signed.apk` file.
 2. Install it on your Android device, allowing installation from that source if prompted.
