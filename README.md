@@ -6,7 +6,7 @@ SSH Button Next — бесплатное приложение для быстр�
 
 ### Возможности
 
-- Кнопки SSH-команд, группировка, отдельная перестановка кнопок и групп, включая «Кнопки без группы»; перетаскивание серверов.
+- Кнопки SSH-команд, группировка, отдельная перестановка кнопок и групп, включая «Кнопки без группы»; перетаскивание серверов. Свёрнутые группы раскрываются при удержании перетаскиваемой кнопки над заголовком около 0,6 секунды.
 - Подключение по паролю или приватному SSH-ключу.
 - Подтверждение запуска, тайм-ауты, прерывание выполнения и просмотр результата команды.
 - История выполнений по календарным датам: сохраняются последние 30 разных дат с записями; удаление отдельных записей и суток свайпом с подтверждением, без сохранения SSH-вывода и секретов.
@@ -18,7 +18,7 @@ SSH Button Next — бесплатное приложение для быстр�
 
 ### Скачать и установить
 
-Подписанные установочные файлы Android доступны в разделе **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Актуальная версия — **[v0.2.12](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.12)**.
+Подписанные установочные файлы Android доступны в разделе **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Актуальная версия — **[v0.2.13](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.13)**.
 
 1. Выберите последний релиз и скачайте файл `*-signed.apk`.
 2. Установите APK на телефон. При необходимости разрешите установку из выбранного источника в настройках Android.
@@ -36,7 +36,7 @@ SSH Button Next is a free Android app for running predefined SSH commands on you
 
 ### Features
 
-- Custom SSH command buttons, draggable groups (including Ungrouped), and draggable server cards.
+- Custom SSH command buttons, draggable groups (including Ungrouped), and draggable server cards. Collapsed groups expand after hovering a dragged command over the header for about 0.6 seconds.
 - Password or private-key authentication.
 - Run confirmations, timeouts, command interruption and command output.
 - Calendar-day execution history retaining the last 30 recorded dates, with confirmed swipe-to-delete for entries or entire days; no SSH output or credentials.
@@ -48,7 +48,7 @@ SSH Button Next is a free Android app for running predefined SSH commands on you
 
 ### Download and install
 
-Signed Android packages are available under **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Current release: **[v0.2.12](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.12)**.
+Signed Android packages are available under **[Releases](https://github.com/lKlElNlGl/ssh-button-next-releases/releases)**. Current release: **[v0.2.13](https://github.com/lKlElNlGl/ssh-button-next-releases/releases/tag/v0.2.13)**.
 
 1. Open the latest release and download the `*-signed.apk` file.
 2. Install it on your Android device, allowing installation from that source if prompted.
